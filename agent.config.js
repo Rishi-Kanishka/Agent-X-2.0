@@ -13,11 +13,11 @@ const agentConfig = {
   // ─── BRANDING ───────────────────────────────────────────────────────
   // These values are reflected in the header, welcome screen,
   // meta tags, email templates, and throughout the UI.
-  name: "AgentX 2.0",
+  name: "Rishi-23BD1A051P",
   emoji: "⚡",
   tagline: "AI-Powered Productivity Toolkit",
   description:
-    "Manage weather, tasks, data analytics, intelligent search, goal tracking, and email alerts — all in one place.",
+    "YOUR WEATHER AGENT : Manage weather, tasks, data analytics, intelligent search, goal tracking, and email alerts — all in one place.",
 
   // ─── AI MODEL ───────────────────────────────────────────────────────
   // The Gemini model used by ALL AI-powered tools:
